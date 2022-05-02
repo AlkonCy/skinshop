@@ -34,7 +34,7 @@
 		<div class="content-404">
 			<img src="images/404/404.png" class="img-responsive" alt="" />
 			<h1><b>OPPS!</b> Creo que te as perdido</h1>
-			<p>Esta web no se encuentra disponible, vuelve a casa</p>
+			<p>Esta web no se encuentra disponible, vuelve a casa viajero</p>
 			<h2><a href="index.php">Inicio</a></h2>
 		</div>
 	</div>
