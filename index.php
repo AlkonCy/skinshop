@@ -1,7 +1,6 @@
 <?php require_once "config/conexion.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -199,9 +198,7 @@
 			<div class="row">
 				<div class="col-sm-3">
 					<div class="left-sidebar">
-						
 						<!--/category-products-->
-					
 						<div class="brands_products"><!--brands_products-->
 							<h2>Categorias</h2>
 							<div class="brands-name">
@@ -297,7 +294,7 @@
 		
 			<div class="container">
 				<div class="row">
-					<p class="pull-left">Copyright © 2020 Skin Shop todos los derechos reservados</p>
+					<p class="pull-left">Copyright © 2020 Skin Shop todos los derechos reservados WEBSITE V0.2</p>
 					<p class="pull-right">Programado <span><a target="_blank" href="/comundad.php">Andres Martinez</a></span></p>
 				</div>
 			</div>
